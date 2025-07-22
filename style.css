@@ -1,0 +1,88 @@
+p {
+  text-align: center;
+}
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+  opacity: 0.9;
+  box-shadow: 5px 5px 5px black;
+}
+body {
+  background-image: url(https://i.postimg.cc/vZnpWCTj/coffee-bean-bg.jpg);
+  background-color: rgba(255, 255, 255, 0.15);
+  background-blend-mode: lighten;
+  font-family: sans-serif;
+  padding: 20px;
+}
+.flavor {
+  text-align: left;
+  width: 70%;
+}
+.price {
+  text-align: right;
+  width: 20%;
+}
+.item p {
+  font-family: Lucida Handwriting, cursive;
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-family: Lucida Handwriting, Cursive;
+  font-weight: bold;
+  letter-spacing: 20px;
+  color: rgb(0, 0, 0);
+  text-shadow: 5px 5px 7px rgb(123, 74, 10);
+  text-align: center;
+}
+h2 {
+  font-size: 30px;
+  letter-spacing: 5px;
+  font-family: Lucida Handwriting, Cursive;
+}
+.flavor,
+.dessert {
+  text-align: left;
+  width: 70%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -25px;
+}
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+.established {
+  font-style: italic;
+  font-family: Lucida Handwriting, Cursive;
+}
+
+.coffee1 {
+  position: fixed;
+  align-items: left;
+  width: 25%;
+  height: 40%;
+  top: 600px;
+  left: 300px;
+}
+.coffee2 {
+  position: fixed;
+  align-items: right;
+  width: 23%;
+  height: 40%;
+  top: 600px;
+  right: 320px;
+}
